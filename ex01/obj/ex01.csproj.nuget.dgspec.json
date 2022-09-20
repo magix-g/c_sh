@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DZ2\\c#\\ex01\\ex01.csproj": {}
+    "C:\\DZ2\\c_sh\\ex01\\ex01.csproj": {}
   },
   "projects": {
-    "C:\\DZ2\\c#\\ex01\\ex01.csproj": {
+    "C:\\DZ2\\c_sh\\ex01\\ex01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DZ2\\c#\\ex01\\ex01.csproj",
+        "projectUniqueName": "C:\\DZ2\\c_sh\\ex01\\ex01.csproj",
         "projectName": "ex01",
-        "projectPath": "C:\\DZ2\\c#\\ex01\\ex01.csproj",
+        "projectPath": "C:\\DZ2\\c_sh\\ex01\\ex01.csproj",
         "packagesPath": "C:\\Users\\BooKingII\\.nuget\\packages\\",
-        "outputPath": "C:\\DZ2\\c#\\ex01\\obj\\",
+        "outputPath": "C:\\DZ2\\c_sh\\ex01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BooKingII\\AppData\\Roaming\\NuGet\\NuGet.Config"
